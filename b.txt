@@ -1,1 +1,2 @@
 NodeJS ReactJS PHP Python
+HTML CSS JQuery
